@@ -10,7 +10,7 @@ Este será el medio oficial para intercambio de
 - Entregas 
 - Ejemplos en clase.
 
-Cada alumno deberá tener su propio `fork` del repositorio, y nos manejaremos mediante `pull request` para enviar consultas. 
+Cada alumno deberá tener su propio _fork_ del repositorio, y nos manejaremos mediante _pull request_ para enviar consultas. 
 
 ## Material Extra
 
