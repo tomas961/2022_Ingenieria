@@ -1,6 +1,6 @@
 # Modelización de Materiales 2022
 
-Repositorio de la materia `Modelización de Materiales` del [Instituto Sabato](https://www.isabato.edu.ar/). 
+Repositorio de la materia __Modelización de Materiales__ del [Instituto Sabato](https://www.isabato.edu.ar/). 
 
 Docentes: Ruben Weht y [Mariano Forti](https://github.com/mdforti)
 
